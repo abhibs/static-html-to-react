@@ -114,7 +114,7 @@ class Service extends Component {
     </div>
 </section>
 
-<div class="brand-area section-padding30">
+{/* <div class="brand-area section-padding30">
     <div class="container">
         <div class="brand-active brand-border pt-50 pb-40">
             <div class="single-brand">
@@ -134,9 +134,9 @@ class Service extends Component {
             </div>
         </div>
     </div>
-</div>
+</div> */}
 
-<div class="contact-info-area w-padding2" data-background="assets/img/gallery/section_bg04.jpg">
+<div class="contact-info-area w-padding2" data-background="assets/img/gallery/section_bg04.jpg" style={{backgroundColor:"#342543"}}>
     <div class="container">
         <div class="row justify-content-between">
             <div class="col-xl-5 col-lg-7">
