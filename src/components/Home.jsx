@@ -428,7 +428,7 @@ class Home extends Component {
             </div>
     </div>           
 </section>
-<div class="brand-area pb-bottom">
+{/* <div class="brand-area pb-bottom">
     <div class="container">
         <div class="brand-active brand-border pt-50 pb-40">
             <div class="single-brand">
@@ -448,7 +448,7 @@ class Home extends Component {
             </div>
         </div>
     </div>
-</div>
+</div> */}
 
 <section class="contact-info-area w-padding2" data-background="assets/img/gallery/section_bg04.jpg">
     <div class="container">
