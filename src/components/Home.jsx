@@ -33,7 +33,6 @@ class Home extends Component {
                             <span data-animation="fadeInUp" data-delay=".4s">Get Every Single Solutions.</span>
                             <h1 data-animation="fadeInUp" data-delay=".6s">I’m Designer Haris F. Watson</h1>
                             <P data-animation="fadeInUp" data-delay=".8s" >jhorem rfpsum golor sidt amet, consectetur adipiscing elit, eiusmod tempor incididunt utcjhg labore bet dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.</P>
-                            <!-- Hero-btn -->
                             <div class="hero__btn">
                                 <a href="industries.html" class="btn hero-btn"  data-animation="fadeInLeft" data-delay=".8s">Learn More</a>
                                 <a href="industries.html" class="btn border-btn ml-15" data-animation="fadeInRight" data-delay="1.0s">Hire Me</a>
@@ -147,40 +146,37 @@ class Home extends Component {
                         <div class="services-caption">
                             <div class="row">
                                 <div class="col-lg-8 col-md-8 col-sm-8">
-                                    <!-- Single -->
                                     <div class="single-services mb-30">
-                                        <img src="assets/img/service/services1.png" alt="">
+                                        <img src="assets/img/service/services1.png" alt="" />
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-4 col-sm-4">
                                     <div class="row">
                                         <div class="col-lg-12">
-                                            <!-- Single -->
                                             <div class="single-services mb-30">
-                                                <img src="assets/img/service/services2.png" alt="">
+                                                <img src="assets/img/service/services2.png" alt=""/>
                                             </div>
                                         </div>
                                         <div class="col-lg-12">
-                                            <!-- Single -->
                                             <div class="single-services mb-30">
-                                                <img src="assets/img/service/services3.png" alt="">
+                                                <img src="assets/img/service/services3.png" alt=""/>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-4 col-sm-4">
                                     <div class="single-services mb-30">
-                                        <img src="assets/img/service/services4.png" alt="">
+                                        <img src="assets/img/service/services4.png" alt=""/>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-4 col-sm-4">
                                     <div class="single-services mb-30">
-                                        <img src="assets/img/service/services5.png" alt="">
+                                        <img src="assets/img/service/services5.png" alt=""/>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-4 col-sm-4">
                                     <div class="single-services mb-30">
-                                        <img src="assets/img/service/services6.png" alt="">
+                                        <img src="assets/img/service/services6.png" alt=""/>
                                     </div>
                                 </div>
                             </div>
@@ -191,36 +187,36 @@ class Home extends Component {
                             <div class="row">
                                 <div class="col-lg-8 col-md-8 col-sm-8">
                                     <div class="single-services mb-30">
-                                        <img src="assets/img/service/services6.png" alt="">
+                                        <img src="assets/img/service/services6.png" alt=""/>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-4 col-sm-4">
                                     <div class="row">
                                         <div class="col-lg-12">
                                             <div class="single-services mb-30">
-                                                <img src="assets/img/service/services2.png" alt="">
+                                                <img src="assets/img/service/services2.png" alt=""/>
                                             </div>
                                         </div>
                                         <div class="col-lg-12">
                                             <div class="single-services mb-30">
-                                                <img src="assets/img/service/services3.png" alt="">
+                                                <img src="assets/img/service/services3.png" alt=""/>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-4 col-sm-4">
                                     <div class="single-services mb-30">
-                                        <img src="assets/img/service/services4.png" alt="">
+                                        <img src="assets/img/service/services4.png" alt=""/>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-4 col-sm-4">
                                     <div class="single-services mb-30">
-                                        <img src="assets/img/service/services5.png" alt="">
+                                        <img src="assets/img/service/services5.png" alt=""/>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-4 col-sm-4">
                                     <div class="single-services mb-30">
-                                        <img src="assets/img/service/services1.png" alt="">
+                                        <img src="assets/img/service/services1.png" alt=""/>
                                     </div>
                                 </div>
                             </div>
@@ -231,36 +227,36 @@ class Home extends Component {
                             <div class="row">
                                 <div class="col-lg-8 col-md-8 col-sm-8">
                                     <div class="single-services mb-30">
-                                        <img src="assets/img/service/services2.png" alt="">
+                                        <img src="assets/img/service/services2.png" alt=""/>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-4 col-sm-4">
                                     <div class="row">
                                         <div class="col-lg-12">
                                             <div class="single-services mb-30">
-                                                <img src="assets/img/service/services1.png" alt="">
+                                                <img src="assets/img/service/services1.png" alt=""/>
                                             </div>
                                         </div>
                                         <div class="col-lg-12">
                                             <div class="single-services mb-30">
-                                                <img src="assets/img/service/services3.png" alt="">
+                                                <img src="assets/img/service/services3.png" alt=""/>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-4 col-sm-4">
                                     <div class="single-services mb-30">
-                                        <img src="assets/img/service/services4.png" alt="">
+                                        <img src="assets/img/service/services4.png" alt=""/>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-4 col-sm-4">
                                     <div class="single-services mb-30">
-                                        <img src="assets/img/service/services5.png" alt="">
+                                        <img src="assets/img/service/services5.png" alt=""/>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-4 col-sm-4">
                                     <div class="single-services mb-30">
-                                        <img src="assets/img/service/services6.png" alt="">
+                                        <img src="assets/img/service/services6.png" alt=""/>
                                     </div>
                                 </div>
                             </div>
@@ -271,36 +267,36 @@ class Home extends Component {
                             <div class="row">
                                 <div class="col-lg-8 col-md-8 col-sm-8">
                                     <div class="single-services mb-30">
-                                        <img src="assets/img/service/services1.png" alt="">
+                                        <img src="assets/img/service/services1.png" alt=""/>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-4 col-sm-4">
                                     <div class="row">
                                         <div class="col-lg-12">
                                             <div class="single-services mb-30">
-                                                <img src="assets/img/service/services2.png" alt="">
+                                                <img src="assets/img/service/services2.png" alt=""/>
                                             </div>
                                         </div>
                                         <div class="col-lg-12">
                                             <div class="single-services mb-30">
-                                                <img src="assets/img/service/services3.png" alt="">
+                                                <img src="assets/img/service/services3.png" alt=""/>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-4 col-sm-4">
                                     <div class="single-services mb-30">
-                                        <img src="assets/img/service/services4.png" alt="">
+                                        <img src="assets/img/service/services4.png" alt=""/>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-4 col-sm-4">
                                     <div class="single-services mb-30">
-                                        <img src="assets/img/service/services5.png" alt="">
+                                        <img src="assets/img/service/services5.png" alt=""/>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-4 col-sm-4">
                                     <div class="single-services mb-30">
-                                        <img src="assets/img/service/services6.png" alt="">
+                                        <img src="assets/img/service/services6.png" alt=""/>
                                     </div>
                                 </div>
                             </div>
@@ -311,36 +307,36 @@ class Home extends Component {
                             <div class="row">
                                 <div class="col-lg-8 col-md-8 col-sm-8">
                                     <div class="single-services mb-30">
-                                        <img src="assets/img/service/services3.png" alt="">
+                                        <img src="assets/img/service/services3.png" alt=""/>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-4 col-sm-4">
                                     <div class="row">
                                         <div class="col-lg-12">
                                             <div class="single-services mb-30">
-                                                <img src="assets/img/service/services2.png" alt="">
+                                                <img src="assets/img/service/services2.png" alt=""/>
                                             </div>
                                         </div>
                                         <div class="col-lg-12">
                                             <div class="single-services mb-30">
-                                                <img src="assets/img/service/services1.png" alt="">
+                                                <img src="assets/img/service/services1.png" alt=""/>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-4 col-sm-4">
                                     <div class="single-services mb-30">
-                                        <img src="assets/img/service/services4.png" alt="">
+                                        <img src="assets/img/service/services4.png" alt=""/>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-4 col-sm-4">
                                     <div class="single-services mb-30">
-                                        <img src="assets/img/service/services5.png" alt="">
+                                        <img src="assets/img/service/services5.png" alt=""/>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-4 col-sm-4">
                                     <div class="single-services mb-30">
-                                        <img src="assets/img/service/services6.png" alt="">
+                                        <img src="assets/img/service/services6.png" alt=""/>
                                     </div>
                                 </div>
                             </div>
@@ -386,7 +382,7 @@ class Home extends Component {
                             <div class="blog-inner">
                             <div class="blog-top">
                                     <div class="person-img">
-                                        <img src="assets/img/gallery/blog1.png" alt="">
+                                        <img src="assets/img/gallery/blog1.png" alt=""/>
                                     </div>
                                     <div class="comment-person">
                                         <h2>Bradley Erickson</h2>   
@@ -402,7 +398,7 @@ class Home extends Component {
                             <div class="blog-inner">
                             <div class="blog-top">
                                     <div class="person-img">
-                                        <img src="assets/img/gallery/blog2.png" alt="">
+                                        <img src="assets/img/gallery/blog2.png" alt=""/>
                                     </div>
                                     <div class="comment-person">
                                         <h2>Bradley Erickson</h2>   
@@ -418,7 +414,7 @@ class Home extends Component {
                             <div class="blog-inner">
                             <div class="blog-top">
                                     <div class="person-img">
-                                        <img src="assets/img/gallery/blog3.png" alt="">
+                                        <img src="assets/img/gallery/blog3.png" alt=""/>
                                     </div>
                                     <div class="comment-person">
                                         <h2>Bradley Erickson</h2>   
@@ -434,7 +430,7 @@ class Home extends Component {
                             <div class="blog-inner">
                             <div class="blog-top">
                                     <div class="person-img">
-                                        <img src="assets/img/gallery/blog2.png" alt="">
+                                        <img src="assets/img/gallery/blog2.png" alt=""/>
                                     </div>
                                     <div class="comment-person">
                                         <h2>Bradley Erickson</h2>   
@@ -454,19 +450,19 @@ class Home extends Component {
     <div class="container">
         <div class="brand-active brand-border pt-50 pb-40">
             <div class="single-brand">
-                <img src="assets/img/gallery/brand1.png" alt="">
+                <img src="assets/img/gallery/brand1.png" alt=""/>
             </div>
             <div class="single-brand">
-                <img src="assets/img/gallery/brand2.png" alt="">
+                <img src="assets/img/gallery/brand2.png" alt=""/>
             </div>
             <div class="single-brand">
-                <img src="assets/img/gallery/brand3.png" alt="">
+                <img src="assets/img/gallery/brand3.png" alt=""/>
             </div>
             <div class="single-brand">
-                <img src="assets/img/gallery/brand4.png" alt="">
+                <img src="assets/img/gallery/brand4.png" alt=""/>
             </div>
             <div class="single-brand">
-                <img src="assets/img/gallery/brand2.png" alt="">
+                <img src="assets/img/gallery/brand2.png" alt=""/>
             </div>
         </div>
     </div>
@@ -479,7 +475,7 @@ class Home extends Component {
               <div class="contact-caption mb-50">
                     <h3>If Not Now, When? Let’s Work Together!</h3>
                     <p>Consectetur adipiscing elit, sed do eiusmod tempor ididunt ut labore et dolore magna aliqua. Quis ipsum suspendisces gravida. Risus commodo viverra.</p>
-                    <img src="assets/img/gallery/sin.png" alt="">
+                    <img src="assets/img/gallery/sin.png" alt=""/>
               </div>
             </div>
             <div class="col-xl-5 col-lg-5">
