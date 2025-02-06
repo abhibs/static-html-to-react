@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import {BrowserRouter as Router,Switch,Route,Link } from "react-router-dom";
 import Home from '../components/Home';
+import About from '../components/About';
 
 class Header extends Component {
   render() {
@@ -63,6 +64,8 @@ class Header extends Component {
     </header>
     <Switch>
           <Route exact path="/" component={Home} /> 
+          <Route exact path="/about" component={About} /> 
+
         </Switch>
       </div>
       </Router>
