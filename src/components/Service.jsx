@@ -6,7 +6,6 @@ class Service extends Component {
       <div>
             <main>
 
-<!-- Header Start -->
 <div class="slider-area ">
     <div class="slider-height2 d-flex align-items-center">
         <div class="container">
@@ -26,8 +25,7 @@ class Service extends Component {
         </div>
     </div>
 </div>
-<!-- Header End -->
-<!-- Categories Area Start -->
+
 <section class="categories-area categories-area2  section-padding30">
     <div class="container">
         <div class="row">
@@ -100,8 +98,7 @@ class Service extends Component {
          </div>
     </div>
 </section>
-<!-- Categories Area End -->
-<!-- Want To Work Start -->
+
 <section class="wantToWork-area w-padding2">
     <div class="container">
         <div class="row align-items-center justify-content-between">
@@ -116,31 +113,29 @@ class Service extends Component {
         </div>
     </div>
 </section>
-<!-- Want To Work End -->
-<!-- Brand Area Start -->
+
 <div class="brand-area section-padding30">
     <div class="container">
         <div class="brand-active brand-border pt-50 pb-40">
             <div class="single-brand">
-                <img src="assets/img/gallery/brand1.png" alt="">
+                <img src="assets/img/gallery/brand1.png" alt=""/>
             </div>
             <div class="single-brand">
-                <img src="assets/img/gallery/brand2.png" alt="">
+                <img src="assets/img/gallery/brand2.png" alt=""/>
             </div>
             <div class="single-brand">
-                <img src="assets/img/gallery/brand3.png" alt="">
+                <img src="assets/img/gallery/brand3.png" alt=""/>
             </div>
             <div class="single-brand">
-                <img src="assets/img/gallery/brand4.png" alt="">
+                <img src="assets/img/gallery/brand4.png" alt=""/>
             </div>
             <div class="single-brand">
-                <img src="assets/img/gallery/brand2.png" alt="">
+                <img src="assets/img/gallery/brand2.png" alt=""/>
             </div>
         </div>
     </div>
 </div>
-<!-- Brand Area End -->
-<!-- Contact Info Start -->
+
 <div class="contact-info-area w-padding2" data-background="assets/img/gallery/section_bg04.jpg">
     <div class="container">
         <div class="row justify-content-between">
@@ -148,13 +143,13 @@ class Service extends Component {
               <div class="contact-caption mb-50">
                     <h3>If Not Now, When? Let’s Work Together!</h3>
                     <p>Consectetur adipiscing elit, sed do eiusmod tempor ididunt ut labore et dolore magna aliqua. Quis ipsum suspendisces gravida. Risus commodo viverra.</p>
-                    <img src="assets/img/gallery/sin.png" alt="">
+                    <img src="assets/img/gallery/sin.png" alt=""/>
               </div>
             </div>
             <div class="col-xl-5 col-lg-5">
                 <form action="#" class="contact-wrapper">
-                    <input type="text" name="name" placeholder="Full Name">
-                    <input type="email" name="email" placeholder="Email Address">
+                    <input type="text" name="name" placeholder="Full Name"/>
+                    <input type="email" name="email" placeholder="Email Address"/>
                     <textarea name="message" id="message" placeholder="Your Message"></textarea>
                     <button class="submit-btn2" type="submit">Send Message</button>
                 </form>
@@ -162,7 +157,6 @@ class Service extends Component {
         </div>
     </div>
 </div>
-<!-- Contact Info End -->
 
 </main>
       </div>
