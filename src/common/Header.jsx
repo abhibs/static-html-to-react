@@ -3,6 +3,7 @@ import {BrowserRouter as Router,Switch,Route,Link } from "react-router-dom";
 import Home from '../components/Home';
 import About from '../components/About';
 import Service from '../components/Service';
+import Portfolio from '../components/Portfolio';
 
 class Header extends Component {
   render() {
@@ -37,8 +38,8 @@ class Header extends Component {
                                                 <li><Link to="/">Home</Link></li>
                                                 <li><Link to="/about">About</Link></li>
                                                  <li><Link to="/service">Service</Link></li>
-                                                {/*<li><a href="portfolio.html">Portfolio</a></li>
-                                                <li><a href="#">Page</a>
+                                                <li><Link to="/portfolio">Portfolio</Link></li>
+                                                {/*<li><a href="#">Page</a>
                                                     <ul class="submenu">
                                                         <li><a href="blog.html">Blog</a></li>
                                                         <li><a href="blog_details.html">Blog Details</a></li>
@@ -67,6 +68,8 @@ class Header extends Component {
           <Route exact path="/" component={Home} /> 
           <Route exact path="/about" component={About} /> 
           <Route exact path="/service" component={Service} /> 
+          <Route exact path="/portfolio" component={Portfolio} /> 
+
 
 
         </Switch>
