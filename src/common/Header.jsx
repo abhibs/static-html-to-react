@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import {BrowserRouter as Router,Switch,Route,Link } from "react-router-dom";
 import Home from '../components/Home';
 import About from '../components/About';
+import Service from '../components/Service';
 
 class Header extends Component {
   render() {
@@ -35,8 +36,8 @@ class Header extends Component {
                                             <ul id="navigation">
                                                 <li><Link to="/">Home</Link></li>
                                                 <li><Link to="/about">About</Link></li>
-                                                {/* <li><a href="services.html">Services</a></li>
-                                                <li><a href="portfolio.html">Portfolio</a></li>
+                                                 <li><Link to="/service">Service</Link></li>
+                                                {/*<li><a href="portfolio.html">Portfolio</a></li>
                                                 <li><a href="#">Page</a>
                                                     <ul class="submenu">
                                                         <li><a href="blog.html">Blog</a></li>
@@ -65,6 +66,8 @@ class Header extends Component {
     <Switch>
           <Route exact path="/" component={Home} /> 
           <Route exact path="/about" component={About} /> 
+          <Route exact path="/service" component={Service} /> 
+
 
         </Switch>
       </div>
