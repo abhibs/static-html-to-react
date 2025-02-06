@@ -450,7 +450,7 @@ class Home extends Component {
     </div>
 </div> */}
 
-<section class="contact-info-area w-padding2" data-background="assets/img/gallery/section_bg04.jpg">
+<section class="contact-info-area w-padding2" data-background="assets/img/gallery/section_bg04.jpg" style={{backgroundColor:"#342543"}}>
     <div class="container">
         <div class="row justify-content-between">
             <div class="col-xl-5 col-lg-7">
