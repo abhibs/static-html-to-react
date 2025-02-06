@@ -375,8 +375,7 @@ class Home extends Component {
     </div>
     <div class="latest-blog-area">
         <div class="container">
-            <div class="custom-row">
-                <div class="blog-active">
+            <div class="row">
                     <div class="col-xl-4">
                         <div class="blog-wrapper">
                             <div class="blog-inner">
@@ -425,25 +424,8 @@ class Home extends Component {
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-4">
-                        <div class="blog-wrapper">
-                            <div class="blog-inner">
-                            <div class="blog-top">
-                                    <div class="person-img">
-                                        <img src="assets/img/gallery/blog2.png" alt=""/>
-                                    </div>
-                                    <div class="comment-person">
-                                        <h2>Bradley Erickson</h2>   
-                                        <span>UI/UX Designer</span>
-                                    </div>
-                            </div>
-                                <p>Consectetur adipisicing elit, seddosdoe eiusmod tempor incididunt utore etstes dolore magna aliqua. Ut imminim restai veniam, quis nostrud.</p>
-                            </div>
-                        </div>
-                    </div>
                 </div>
             </div>
-        </div>
     </div>           
 </section>
 <div class="brand-area pb-bottom">
