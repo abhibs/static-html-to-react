@@ -1,8 +1,11 @@
 import React, { Component } from 'react'
+import {BrowserRouter as Router,Switch,Route,Link } from "react-router-dom";
+import Home from '../components/Home';
 
 class Header extends Component {
   render() {
     return (
+        <Router>
       <div>
             <div id="preloader-active">
         <div class="preloader d-flex align-items-center justify-content-center">
@@ -58,7 +61,11 @@ class Header extends Component {
                 </div>
         </div>
     </header>
+    <Switch>
+          <Route exact path="/" component={Home} /> 
+        </Switch>
       </div>
+      </Router>
     )
   }
 }
