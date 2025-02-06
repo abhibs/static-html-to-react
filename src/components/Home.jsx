@@ -6,10 +6,8 @@ class Home extends Component {
       <div>
     <main>
 
-<!-- slider Area Start-->
 <div class="slider-area ">
     <div class="slider-active">
-        <!-- Single Slider -->
         <div class="single-slider slider-height d-flex align-items-center">
             <div class="container">
                 <div class="row">
@@ -18,7 +16,6 @@ class Home extends Component {
                             <span data-animation="fadeInUp" data-delay=".4s">Get Every Single Solutions.</span>
                             <h1 data-animation="fadeInUp" data-delay=".6s">I’m Designer Haris F. Watson</h1>
                             <P data-animation="fadeInUp" data-delay=".8s" >jhorem rfpsum golor sidt amet, consectetur adipiscing elit, eiusmod tempor incididunt utcjhg labore bet dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.</P>
-                            <!-- Hero-btn -->
                             <div class="hero__btn">
                                 <a href="industries.html" class="btn hero-btn"  data-animation="fadeInLeft" data-delay=".8s">Learn More</a>
                                 <a href="industries.html" class="btn border-btn ml-15" data-animation="fadeInRight" data-delay="1.0s">Hire Me</a>
@@ -28,7 +25,6 @@ class Home extends Component {
                 </div>
             </div>
         </div>
-        <!-- Single Slider -->
         <div class="single-slider slider-height d-flex align-items-center">
             <div class="container">
                 <div class="row">
@@ -49,8 +45,6 @@ class Home extends Component {
         </div>
     </div>
 </div>
-<!-- slider Area End-->
-<!-- About Area start -->
 <section class="about-area section-paddingt30">
     <div class="container">
         <div class="row ">
@@ -74,13 +68,11 @@ class Home extends Component {
         </div>
     </div>
 </section>
-<!-- About Area End -->
-<!-- Categories Area Start -->
+
 <section class="categories-area section-padding3">
     <div class="container">
         <div class="row">
             <div class="col-lg-6">
-                <!-- Section Tittle -->
                 <div class="section-tittle mb-70">
                     <h2>What Services you will Get from me!</h2>
                 </div>
@@ -123,21 +115,18 @@ class Home extends Component {
          </div>
     </div>
 </section>
-<!-- Categories Area End -->
-<!-- Services Area Start -->
+
 <section class="services-area  services-padding">
     <div class="container">
        <div class="project-heading mb-35">
             <div class="row align-items-end">
                 <div class="col-lg-6">
-                    <!-- Section Tittle -->
                     <div class="section-tittle">
                         <h2>What Services you will Get from me!</h2>
                     </div>
                 </div>
                 <div class="col-lg-6">
                     <div class="properties__button">
-                        <!--Nav Button  -->                                            
                         <nav>
                             <div class="nav nav-tabs" id="nav-tab" role="tablist">
                                 <a class="nav-item nav-link active" id="nav-home-tab" data-toggle="tab" href="#nav-home" role="tab" aria-controls="nav-home" aria-selected="false"> All</a>
@@ -147,16 +136,13 @@ class Home extends Component {
                                 <a class="nav-item nav-link" id="nav-technology" data-toggle="tab" href="#nav-techno" role="tab" aria-controls="nav-contact" aria-selected="false">Web Design</a>
                             </div>
                         </nav>
-                        <!--End Nav Button  -->
                     </div>
                 </div>
             </div>
        </div>
         <div class="row">
             <div class="col-12">
-                <!-- Nav Card -->
                 <div class="tab-content active" id="nav-tabContent">
-                    <!-- card ONE -->
                     <div class="tab-pane fade active show" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">           
                         <div class="services-caption">
                             <div class="row">
@@ -183,19 +169,16 @@ class Home extends Component {
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-4 col-sm-4">
-                                    <!-- Single -->
                                     <div class="single-services mb-30">
                                         <img src="assets/img/service/services4.png" alt="">
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-4 col-sm-4">
-                                    <!-- Single -->
                                     <div class="single-services mb-30">
                                         <img src="assets/img/service/services5.png" alt="">
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-4 col-sm-4">
-                                    <!-- Single -->
                                     <div class="single-services mb-30">
                                         <img src="assets/img/service/services6.png" alt="">
                                     </div>
@@ -203,12 +186,10 @@ class Home extends Component {
                             </div>
                         </div>
                     </div>
-                    <!-- Card TWO -->
                     <div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
                         <div class="services-caption">
                             <div class="row">
                                 <div class="col-lg-8 col-md-8 col-sm-8">
-                                    <!-- Single -->
                                     <div class="single-services mb-30">
                                         <img src="assets/img/service/services6.png" alt="">
                                     </div>
@@ -216,13 +197,11 @@ class Home extends Component {
                                 <div class="col-lg-4 col-md-4 col-sm-4">
                                     <div class="row">
                                         <div class="col-lg-12">
-                                            <!-- Single -->
                                             <div class="single-services mb-30">
                                                 <img src="assets/img/service/services2.png" alt="">
                                             </div>
                                         </div>
                                         <div class="col-lg-12">
-                                            <!-- Single -->
                                             <div class="single-services mb-30">
                                                 <img src="assets/img/service/services3.png" alt="">
                                             </div>
@@ -230,19 +209,16 @@ class Home extends Component {
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-4 col-sm-4">
-                                    <!-- Single -->
                                     <div class="single-services mb-30">
                                         <img src="assets/img/service/services4.png" alt="">
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-4 col-sm-4">
-                                    <!-- Single -->
                                     <div class="single-services mb-30">
                                         <img src="assets/img/service/services5.png" alt="">
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-4 col-sm-4">
-                                    <!-- Single -->
                                     <div class="single-services mb-30">
                                         <img src="assets/img/service/services1.png" alt="">
                                     </div>
@@ -250,12 +226,10 @@ class Home extends Component {
                             </div>
                         </div>
                     </div>
-                    <!-- Card THREE -->
                     <div class="tab-pane fade" id="nav-contact" role="tabpanel" aria-labelledby="nav-contact-tab">
                         <div class="services-caption">
                             <div class="row">
                                 <div class="col-lg-8 col-md-8 col-sm-8">
-                                    <!-- Single -->
                                     <div class="single-services mb-30">
                                         <img src="assets/img/service/services2.png" alt="">
                                     </div>
@@ -263,13 +237,11 @@ class Home extends Component {
                                 <div class="col-lg-4 col-md-4 col-sm-4">
                                     <div class="row">
                                         <div class="col-lg-12">
-                                            <!-- Single -->
                                             <div class="single-services mb-30">
                                                 <img src="assets/img/service/services1.png" alt="">
                                             </div>
                                         </div>
                                         <div class="col-lg-12">
-                                            <!-- Single -->
                                             <div class="single-services mb-30">
                                                 <img src="assets/img/service/services3.png" alt="">
                                             </div>
@@ -277,19 +249,16 @@ class Home extends Component {
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-4 col-sm-4">
-                                    <!-- Single -->
                                     <div class="single-services mb-30">
                                         <img src="assets/img/service/services4.png" alt="">
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-4 col-sm-4">
-                                    <!-- Single -->
                                     <div class="single-services mb-30">
                                         <img src="assets/img/service/services5.png" alt="">
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-4 col-sm-4">
-                                    <!-- Single -->
                                     <div class="single-services mb-30">
                                         <img src="assets/img/service/services6.png" alt="">
                                     </div>
@@ -297,12 +266,10 @@ class Home extends Component {
                             </div>
                         </div>
                     </div>
-                    <!-- card FUR -->
                     <div class="tab-pane fade" id="nav-last" role="tabpanel" aria-labelledby="nav-last-tab">
                         <div class="services-caption">
                             <div class="row">
                                 <div class="col-lg-8 col-md-8 col-sm-8">
-                                    <!-- Single -->
                                     <div class="single-services mb-30">
                                         <img src="assets/img/service/services1.png" alt="">
                                     </div>
@@ -310,13 +277,11 @@ class Home extends Component {
                                 <div class="col-lg-4 col-md-4 col-sm-4">
                                     <div class="row">
                                         <div class="col-lg-12">
-                                            <!-- Single -->
                                             <div class="single-services mb-30">
                                                 <img src="assets/img/service/services2.png" alt="">
                                             </div>
                                         </div>
                                         <div class="col-lg-12">
-                                            <!-- Single -->
                                             <div class="single-services mb-30">
                                                 <img src="assets/img/service/services3.png" alt="">
                                             </div>
@@ -324,19 +289,16 @@ class Home extends Component {
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-4 col-sm-4">
-                                    <!-- Single -->
                                     <div class="single-services mb-30">
                                         <img src="assets/img/service/services4.png" alt="">
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-4 col-sm-4">
-                                    <!-- Single -->
                                     <div class="single-services mb-30">
                                         <img src="assets/img/service/services5.png" alt="">
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-4 col-sm-4">
-                                    <!-- Single -->
                                     <div class="single-services mb-30">
                                         <img src="assets/img/service/services6.png" alt="">
                                     </div>
@@ -344,12 +306,10 @@ class Home extends Component {
                             </div>
                         </div>
                     </div>
-                    <!-- card FIVE -->
                     <div class="tab-pane fade" id="nav-techno" role="tabpanel" aria-labelledby="nav-technology">
                         <div class="services-caption">
                             <div class="row">
                                 <div class="col-lg-8 col-md-8 col-sm-8">
-                                    <!-- Single -->
                                     <div class="single-services mb-30">
                                         <img src="assets/img/service/services3.png" alt="">
                                     </div>
@@ -357,13 +317,11 @@ class Home extends Component {
                                 <div class="col-lg-4 col-md-4 col-sm-4">
                                     <div class="row">
                                         <div class="col-lg-12">
-                                            <!-- Single -->
                                             <div class="single-services mb-30">
                                                 <img src="assets/img/service/services2.png" alt="">
                                             </div>
                                         </div>
                                         <div class="col-lg-12">
-                                            <!-- Single -->
                                             <div class="single-services mb-30">
                                                 <img src="assets/img/service/services1.png" alt="">
                                             </div>
@@ -371,19 +329,16 @@ class Home extends Component {
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-4 col-sm-4">
-                                    <!-- Single -->
                                     <div class="single-services mb-30">
                                         <img src="assets/img/service/services4.png" alt="">
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-4 col-sm-4">
-                                    <!-- Single -->
                                     <div class="single-services mb-30">
                                         <img src="assets/img/service/services5.png" alt="">
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-4 col-sm-4">
-                                    <!-- Single -->
                                     <div class="single-services mb-30">
                                         <img src="assets/img/service/services6.png" alt="">
                                     </div>
@@ -392,13 +347,11 @@ class Home extends Component {
                         </div>
                     </div>
                 </div>
-            <!-- End Nav Card -->
             </div>
         </div>
     </div>
 </section>
-<!-- Services Area End -->
-<!-- Want To Work Start -->
+
 <section class="wantToWork-area w-padding2">
     <div class="container">
         <div class="row align-items-center justify-content-between">
@@ -413,26 +366,21 @@ class Home extends Component {
         </div>
     </div>
 </section>
-<!-- Want To Work End -->
 
-<!-- client-comments -->
 <section class="client-comments section-paddingt30">
     <div class="container">
         <div class="row">
             <div class="col-xl-6 col-lg-8 col-md-10">
-                <!-- Section Tittle -->
                 <div class="section-tittle mb-70">
                     <h2>Some Possitive Feedback  That Encourage Us</h2>
                 </div>
             </div>
         </div>
     </div>
-    <!-- latest-blog-area start -->
     <div class="latest-blog-area">
         <div class="container">
             <div class="custom-row">
                 <div class="blog-active">
-                    <!-- single-items -->
                     <div class="col-xl-4">
                         <div class="blog-wrapper">
                             <div class="blog-inner">
@@ -449,7 +397,6 @@ class Home extends Component {
                             </div>
                         </div>
                     </div>
-                    <!-- single-items -->
                     <div class="col-xl-4">
                         <div class="blog-wrapper">
                             <div class="blog-inner">
@@ -466,7 +413,6 @@ class Home extends Component {
                             </div>
                         </div>
                     </div>
-                    <!-- single-items -->
                     <div class="col-xl-4">
                         <div class="blog-wrapper">
                             <div class="blog-inner">
@@ -483,7 +429,6 @@ class Home extends Component {
                             </div>
                         </div>
                     </div>
-                    <!-- single-items -->
                     <div class="col-xl-4">
                         <div class="blog-wrapper">
                             <div class="blog-inner">
@@ -504,9 +449,7 @@ class Home extends Component {
             </div>
         </div>
     </div>           
-    <!-- End latest-blog-area -->
 </section>
-<!-- Brand Area Start -->
 <div class="brand-area pb-bottom">
     <div class="container">
         <div class="brand-active brand-border pt-50 pb-40">
@@ -528,8 +471,7 @@ class Home extends Component {
         </div>
     </div>
 </div>
-<!-- Brand Area End -->
-<!-- Contact Info Start -->
+
 <section class="contact-info-area w-padding2" data-background="assets/img/gallery/section_bg04.jpg">
     <div class="container">
         <div class="row justify-content-between">
@@ -551,7 +493,6 @@ class Home extends Component {
         </div>
     </div>
 </section>
-<!-- Contact Info End -->
 
 </main>
       </div>
