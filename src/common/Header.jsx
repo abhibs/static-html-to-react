@@ -25,7 +25,7 @@ class Header extends Component {
                         <div class="row align-items-center">
                             <div class="col-xl-2 col-lg-2 col-md-1">
                                 <div class="logo">
-                                    <a href="index.html"><img src="assets/img/logo/logo.png" alt=""/></a>
+                                <Link to="/"><img src="assets/img/logo/logo.png" alt=""/></Link>
                                 </div>
                             </div>
                             <div class="col-xl-10 col-lg-10 col-md-10">
@@ -33,9 +33,9 @@ class Header extends Component {
                                     <div class="main-menu f-right d-none d-lg-block">
                                         <nav> 
                                             <ul id="navigation">
-                                                <li><a href="index.html">Home</a></li>
-                                                <li><a href="about.html">About</a></li>
-                                                <li><a href="services.html">Services</a></li>
+                                                <li><Link to="/">Home</Link></li>
+                                                <li><Link to="/about">About</Link></li>
+                                                {/* <li><a href="services.html">Services</a></li>
                                                 <li><a href="portfolio.html">Portfolio</a></li>
                                                 <li><a href="#">Page</a>
                                                     <ul class="submenu">
@@ -45,7 +45,7 @@ class Header extends Component {
                                                         <li><a href="portfolio_details.html">Portfolio Details</a></li>
                                                     </ul>
                                                 </li>
-                                                <li><a href="contact.html">Contact</a></li>
+                                                <li><a href="contact.html">Contact</a></li> */}
                                             </ul>
                                         </nav>
                                     </div>
