@@ -480,8 +480,8 @@ class Home extends Component {
             </div>
             <div class="col-xl-5 col-lg-5">
                 <form action="#" class="contact-wrapper">
-                    <input type="text" name="name" placeholder="Full Name">
-                    <input type="email" name="email" placeholder="Email Address">
+                    <input type="text" name="name" placeholder="Full Name"/>
+                    <input type="email" name="email" placeholder="Email Address"/>
                     <textarea name="message" id="message" placeholder="Your Message"></textarea>
                     <button class="submit-btn2" type="submit">Send Message</button>
                 </form>
