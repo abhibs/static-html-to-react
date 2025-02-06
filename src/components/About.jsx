@@ -97,8 +97,8 @@ class About extends Component {
     </div>
     <div class="latest-blog-area">
         <div class="container">
-            <div class="custom-row">
-                <div class="blog-active">
+            <div class="row">
+                {/* <div class="blog-active"> */}
                     <div class="col-xl-4">
                         <div class="blog-wrapper">
                             <div class="blog-inner">
@@ -147,7 +147,7 @@ class About extends Component {
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-4">
+                    {/* <div class="col-xl-4">
                         <div class="blog-wrapper">
                             <div class="blog-inner">
                             <div class="blog-top">
@@ -162,13 +162,13 @@ class About extends Component {
                                 <p>Consectetur adipisicing elit, seddosdoe eiusmod tempor incididunt utore etstes dolore magna aliqua. Ut imminim restai veniam, quis nostrud.</p>
                             </div>
                         </div>
-                    </div>
-                </div>
+                    </div> */}
+                {/* </div> */}
             </div>
         </div>
     </div>           
 </div>
-<div class="brand-area pb-bottom">
+{/* <div class="brand-area pb-bottom">
     <div class="container">
         <div class="brand-active brand-border pt-50 pb-40">
             <div class="single-brand">
@@ -188,9 +188,9 @@ class About extends Component {
             </div>
         </div>
     </div>
-</div>
+</div> */}
 
-<div class="contact-info-area w-padding2" data-background="assets/img/gallery/section_bg04.jpg">
+<div class="contact-info-area w-padding2" data-background="assets/img/gallery/section_bg04.jpg" style={{backgroundColor:"#342543"}}>
     <div class="container">
         <div class="row justify-content-between">
             <div class="col-xl-5 col-lg-7">
