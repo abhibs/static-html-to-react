@@ -1,4 +1,6 @@
 import React, { Component } from 'react'
+import {BrowserRouter as Router,Switch,Route,Link } from "react-router-dom";
+
 
 class Blog extends Component {
   render() {
@@ -41,9 +43,9 @@ class Blog extends Component {
                         </div>
 
                         <div class="blog_details">
-                            <a class="d-inline-block" href="blog_details.html">
+                        <Link to="/blogdetails">
                                 <h2>Google inks pact for new 35-storey office</h2>
-                            </a>
+                        </Link>
                             <p>That dominion stars lights dominion divide years for fourth have don't stars is that
                                 he earth it first without heaven in place seed it second morning saying.</p>
                             <ul class="blog-info-link">
@@ -63,9 +65,9 @@ class Blog extends Component {
                         </div>
 
                         <div class="blog_details">
-                            <a class="d-inline-block" href="blog_details.html">
+                        <Link to="/blogdetails">
                                 <h2>Google inks pact for new 35-storey office</h2>
-                            </a>
+                        </Link>
                             <p>That dominion stars lights dominion divide years for fourth have don't stars is that
                                 he earth it first without heaven in place seed it second morning saying.</p>
                             <ul class="blog-info-link">
@@ -85,9 +87,10 @@ class Blog extends Component {
                         </div>
 
                         <div class="blog_details">
-                            <a class="d-inline-block" href="blog_details.html">
+                        <Link to="/blogdetails">
                                 <h2>Google inks pact for new 35-storey office</h2>
-                            </a>
+                        </Link>
+                            
                             <p>That dominion stars lights dominion divide years for fourth have don't stars is that
                                 he earth it first without heaven in place seed it second morning saying.</p>
                             <ul class="blog-info-link">
@@ -107,9 +110,10 @@ class Blog extends Component {
                         </div>
 
                         <div class="blog_details">
-                            <a class="d-inline-block" href="blog_details.html">
+                        <Link to="/blogdetails">
                                 <h2>Google inks pact for new 35-storey office</h2>
-                            </a>
+                        </Link>
+                            
                             <p>That dominion stars lights dominion divide years for fourth have don't stars is that
                                 he earth it first without heaven in place seed it second morning saying.</p>
                             <ul class="blog-info-link">
@@ -129,9 +133,11 @@ class Blog extends Component {
                         </div>
 
                         <div class="blog_details">
-                            <a class="d-inline-block" href="blog_details.html">
+                        <Link to="/blogdetails">
+
                                 <h2>Google inks pact for new 35-storey office</h2>
-                            </a>
+                        </Link>
+
                             <p>That dominion stars lights dominion divide years for fourth have don't stars is that
                                 he earth it first without heaven in place seed it second morning saying.</p>
                             <ul class="blog-info-link">
@@ -141,26 +147,7 @@ class Blog extends Component {
                         </div>
                     </article>
 
-                    <nav class="blog-pagination justify-content-center d-flex">
-                        <ul class="pagination">
-                            <li class="page-item">
-                                <a href="#" class="page-link" aria-label="Previous">
-                                    <i class="ti-angle-left"></i>
-                                </a>
-                            </li>
-                            <li class="page-item">
-                                <a href="#" class="page-link">1</a>
-                            </li>
-                            <li class="page-item active">
-                                <a href="#" class="page-link">2</a>
-                            </li>
-                            <li class="page-item">
-                                <a href="#" class="page-link" aria-label="Next">
-                                    <i class="ti-angle-right"></i>
-                                </a>
-                            </li>
-                        </ul>
-                    </nav>
+                    
                 </div>
             </div>
             <div class="col-lg-4">

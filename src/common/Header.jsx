@@ -6,6 +6,7 @@ import Service from '../components/Service';
 import Portfolio from '../components/Portfolio';
 import Contact from '../components/Contact';
 import Blog from '../components/Blog';
+import Blogdetail from '../components/Blogdetail';
 
 class Header extends Component {
   render() {
@@ -76,6 +77,8 @@ class Header extends Component {
           <Route exact path="/portfolio" component={Portfolio} /> 
           <Route exact path="/contact" component={Contact} /> 
           <Route exact path="/blog" component={Blog} /> 
+          <Route exact path="/blogdetails" component={Blogdetail} /> 
+
         </Switch>
       </div>
       </Router>
