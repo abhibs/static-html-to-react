@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import {BrowserRouter as Router,Switch,Route,Link } from "react-router-dom";
 
 export default class Blogdetail extends Component {
   render() {
@@ -15,7 +16,7 @@ export default class Blogdetail extends Component {
           <h2>Blog Details</h2>
           <nav aria-label="breadcrumb ">
             <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+            <li class="breadcrumb-item"><Link to="/">Home</Link></li>
             <li class="breadcrumb-item"><a href="#">Blog Details</a></li> 
             </ol>
           </nav>
